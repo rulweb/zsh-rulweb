@@ -1,3 +1,13 @@
+Алиас и автозаполнение для Composer и Laravel Artisan
+
+```sh
+c update
+```
+
+```sh
+a make:controller
+```
+
 # Installation
 
 * [Oh My Zsh](#oh-my-zsh)
